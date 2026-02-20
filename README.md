@@ -24,4 +24,8 @@ Jarvis is a personal assistant that can help you with your daily tasks.
 
 3 - Select your LLM model, here we will use OpenRouter
 
-    https://openrouter.ai/
+    Create account: https://openrouter.ai/
+
+    Generate key : https://openrouter.ai/settings/keys
+
+    Get a model: https://openrouter.ai/models
